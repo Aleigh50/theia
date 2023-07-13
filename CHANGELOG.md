@@ -4,12 +4,13 @@
 
 - [Previous Changelogs](https://github.com/eclipse-theia/theia/tree/master/doc/changelogs/)
 
-## v1.40.0 - 
+## v1.40.0 -
 
 -  Show command shortcuts in toolbar item tooltips. #12660 (https://github.com/eclipse-theia/theia/pull/12660) - Contributed on behalf of STMicroelectronics
 
 <a name="breaking_changes_1.40.0">[Breaking Changes:](#breaking_changes_1.40.0)</a>
 
+- [deps] Bumped supported Node.js version from 16.x to >=18, you may need to update your environments.
 
 ## v1.39.0 - 06/29/2023
 
